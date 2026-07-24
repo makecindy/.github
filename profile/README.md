@@ -14,10 +14,6 @@ Cindy is an open-source, ready-to-use AI work platform — it gives everyone an 
 
 Cindy 是一个开箱即用的开源 AI 工作平台，让每个人都拥有一个能理解任务、操作工具、推进工作直到完成的 AI 助理。它基于 Claude Code、Codex 等领先 Agent 能力，既能直接使用官方 AI Gateway，也能用你自己的 key、复用你已有的订阅，并支持自部署与团队治理。
 
-<p align="center">
-  <img src="assets/tasklog-en.svg" width="100%" alt="Task log: you ask in plain language — Cindy scans, groups, and moves the files on your own computer, then hands the result back: Done, review anytime, undo anytime.">
-</p>
-
 ## Repositories
 
 | Repository | About |
