@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="56" viewBox="0 0 1200 56" role="img" aria-labelledby="rt rd">
+  <title id="rt">Cindy 口号丝带</title>
+  <desc id="rd">红色横幅：想到，就能做到 · Claude Code · Codex · 更多模型 · 开源共创 · 开箱即用。</desc>
+  <rect width="1200" height="56" rx="14" fill="#f43d3f"/>
+  <g font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,'PingFang SC',monospace" font-size="16" font-weight="700" fill="#0f0e15" letter-spacing="2">
+    <text x="46" y="35">想到，就能做到</text>
+    <text x="196" y="35" opacity=".55">&gt;</text>
+    <text x="228" y="35">CLAUDE CODE · CODEX</text>
+    <text x="456" y="35" opacity=".55">&gt;</text>
+    <text x="486" y="35">更多模型</text>
+    <text x="568" y="35" opacity=".55">&gt;</text>
+    <text x="600" y="35">开源共创</text>
+    <text x="688" y="35" opacity=".55">&gt;</text>
+    <text x="720" y="35">开箱即用</text>
+    <text x="808" y="35" opacity=".55">&gt;</text>
+    <text x="840" y="35">任你培养</text>
+    <text x="928" y="35" opacity=".55">&gt;</text>
+    <text x="960" y="35">CINDY</text>
+    <text x="1036" y="35" opacity=".55">&gt;</text>
+    <text x="1068" y="35">想到，就能做到</text>
+  </g>
+</svg>

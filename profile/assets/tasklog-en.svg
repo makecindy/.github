@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="332" viewBox="0 0 1200 332" role="img" aria-labelledby="tt td">
+  <title id="tt">What delegating to Cindy looks like</title>
+  <desc id="td">A task log: you ask in plain language, Cindy operates your real computer step by step, then hands the result back for review.</desc>
+
+  <rect width="1200" height="332" rx="20" fill="#16151e"/>
+  <rect x=".75" y=".75" width="1198.5" height="330.5" rx="19.25" fill="none" stroke="#f3ede224" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <g font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,monospace">
+    <text x="48" y="52" font-size="18" letter-spacing="3" fill="#f3ede2">CINDY <tspan fill="#f43d3f">//</tspan> TASK_LOG</text>
+    <text x="1152" y="52" font-size="18" letter-spacing="2" fill="#918f9e" text-anchor="end">~ on your computer</text>
+  </g>
+  <line x1="48" y1="74" x2="1152" y2="74" stroke="#f3ede224" stroke-width="1.5"/>
+
+  <!-- log body -->
+  <g font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,monospace" font-size="21">
+    <text x="48" y="122" fill="#f43d3f" font-weight="700">&gt;</text>
+    <text x="76" y="122" fill="#f3ede2">Sort the 200 screenshots on my desktop into project folders.</text>
+
+    <text x="76" y="166" fill="#f43d3f">●</text>
+    <text x="104" y="166" fill="#918f9e">scanning <tspan fill="#f3ede2">~/Desktop</tspan> — 200 files found</text>
+
+    <text x="76" y="210" fill="#f43d3f">●</text>
+    <text x="104" y="210" fill="#918f9e">grouping by project — <tspan fill="#f3ede2">12 folders</tspan> created</text>
+
+    <text x="76" y="254" fill="#f43d3f">●</text>
+    <text x="104" y="254" fill="#918f9e">moving files — <tspan fill="#f3ede2">200/200</tspan></text>
+
+    <text x="48" y="300" fill="#f3ede2" font-weight="700"><tspan fill="#f43d3f">✓</tspan> Done — review anytime, undo anytime.<tspan fill="#f43d3f" font-weight="700"> _</tspan></text>
+  </g>
+</svg>
