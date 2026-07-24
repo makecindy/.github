@@ -10,9 +10,9 @@
   <img src="assets/ribbon-zh.svg" width="100%" alt="想到，就能做到 · Claude Code · Codex · 更多模型 · 开源共创 · 开箱即用 · 任你培养">
 </p>
 
-Cindy is an open-source, ready-to-use AI work platform — it gives everyone an AI assistant that understands the task, operates real tools, and keeps work moving until it is done. Built on leading agent harnesses such as **Claude Code** and **Codex**, it works with the official AI Gateway out of the box; you can also use your own keys, reuse the subscriptions you already pay for, self-host, and govern usage across a team.
+Cindy is an open-source AI agent that works out of the box. She brings multiple harnesses, models and tools into one agent that finishes real work in your projects and apps — ready from day one, yours to shape over time. Run her on the official service, authorize the **Claude Code** / **Codex** Coding Plan you already pay for (no duplicate bill), connect your own API keys, or use local models — the software itself is free. Open source means more than visible: it means changeable.
 
-Cindy 是一个开箱即用的开源 AI 工作平台，让每个人都拥有一个能理解任务、操作工具、推进工作直到完成的 AI 助理。它基于 Claude Code、Codex 等领先 Agent 能力，既能直接使用官方 AI Gateway，也能用你自己的 key、复用你已有的订阅，并支持自部署与团队治理。
+Cindy 是一个开源、开箱即用的 AI Agent。她把多套 Harness、模型和工具收进同一个持续成长的伙伴，在真实工程和软件里把任务做完——一开始就好用，任你打扮，任你培养。官方服务登录即用，也可以一键授权你已有的 Claude Code / Codex Coding Plan（不必重复付费）、接你自己的 API key 或本地模型——软件本身免费。开源，不只是看得见，更是改得动。
 
 ## Repositories
 
