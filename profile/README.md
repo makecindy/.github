@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  🌐&nbsp;<b><a href="https://cindy.app">cindy.app</a></b> (International) · <b><a href="https://cindy.cn">cindy.cn</a></b>（中国大陆） &nbsp;|&nbsp; ⬇️&nbsp;<a href="https://cindy.app/#download">Download</a> &nbsp;|&nbsp; 🛠&nbsp;<a href="https://github.com/makecindy/cindy">Source code</a>
+  🌐&nbsp;<b><a href="https://cindy.app">cindy.app</a></b> (International) · <b><a href="https://cindy.cn">cindy.cn</a></b>（中国大陆） &nbsp;|&nbsp; ⬇️&nbsp;<a href="https://cindy.app/download/">Download</a> &nbsp;|&nbsp; 🛠&nbsp;<a href="https://github.com/makecindy/cindy">Source code</a>
 </p>
 
 <p align="center">
